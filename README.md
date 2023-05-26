@@ -14,9 +14,9 @@ scriptions. In this study, we used the new state-of-the-art Automatic Speech Rec
 ## Citation
 If you find this work helpful, please cite our work: 
 
-        @inproceedings{gomez2023AD,
+<!--         @inproceedings{gomez2023AD,
             title={Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctuation and Pauses},
             author={Gómez-Zaragozá, Lucia and Wills, Simone and Tejedor-Garcia, Cristian and Marín-Morales, Javier and Alcañiz, Mariano and Strik, Helmer},
             booktitle={INTERSPEECH},
             year={2023}
-        }
+        } -->
