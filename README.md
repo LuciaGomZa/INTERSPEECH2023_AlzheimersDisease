@@ -8,7 +8,8 @@ scriptions. In this study, we used the new state-of-the-art Automatic Speech Rec
 
 ## Files and folders
 * data: description of the ADReSS Challenge data, and instructions on how to obtain it.
-* code.ipynb: jupyter notebook with the code used to train the models.
+* codes: folder with the following jupyter notebooks
+  * 1_Automatic Speech Recognition (ASR): transcription of the audio files using different automatic speech recognition models.
 * requirements.txt: required packages to be installed.
 
 ## Citation
