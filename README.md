@@ -10,7 +10,7 @@ scriptions. In this study, we used the new state-of-the-art Automatic Speech Rec
 * data: description of the ADReSS Challenge data, and instructions on how to obtain it.
 * codes: folder with the following jupyter notebooks
   * 1_Automatic Speech Recognition (ASR): transcription of the audio files using different automatic speech recognition models.
-  * 2_Word embeddings and neural network: pre-trained word embeddings + neural network model training
+  * 3_Word embeddings and neural network: pre-trained word embeddings + neural network model training
 * requirements.txt: required packages to be installed.
 
 ## Citation
