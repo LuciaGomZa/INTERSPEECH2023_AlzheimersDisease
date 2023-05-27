@@ -13,7 +13,7 @@ scriptions. In this study, we used the new state-of-the-art Automatic Speech Rec
   * 2_1_Feature extraction: feature extraction and pause encoding. 
   * 2_2_Machine learning: training the machine learning models based on the previous features.
   * 3_Word embeddings and neural network: pre-trained word embeddings + neural network model training.
-* requirements.txt: required packages to be installed.
+<!-- * requirements.txt: required packages to be installed. -->
 
 ## Citation
 If you find this work helpful, please cite our work: 
