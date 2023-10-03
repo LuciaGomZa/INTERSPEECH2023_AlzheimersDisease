@@ -16,13 +16,15 @@ scriptions. In this study, we used the new state-of-the-art Automatic Speech Rec
 <!-- * requirements.txt: required packages to be installed. -->
 
 ## Citation
-If you find this work helpful, please cite our work: 
+If you find this work helpful, please cite our work:
 
-   @inproceedings{gomezzaragoza23_interspeech,
-      author={Lucía Gómez-Zaragozá and Simone Wills and Cristian Tejedor-Garcia and Javier Marín-Morales and Mariano Alcañiz and Helmer Strik},
-      title={{Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctuation and Pauses}},
-      year=2023,
-      booktitle={Proc. INTERSPEECH 2023},
-      pages={2403--2407},
-      doi={10.21437/Interspeech.2023-1734}
-   }
+```
+ @inproceedings{gomezzaragoza23_interspeech,
+  author={Lucía Gómez-Zaragozá and Simone Wills and Cristian Tejedor-Garcia and Javier Marín-Morales and Mariano Alcañiz and Helmer Strik},
+  title={{Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctuation and Pauses}},
+  year=2023,
+  booktitle={Proc. INTERSPEECH 2023},
+  pages={2403--2407},
+  doi={10.21437/Interspeech.2023-1734}
+}
+```
