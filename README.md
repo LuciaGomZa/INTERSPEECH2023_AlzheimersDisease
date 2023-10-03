@@ -16,7 +16,9 @@ scriptions. In this study, we used the new state-of-the-art Automatic Speech Rec
 <!-- * requirements.txt: required packages to be installed. -->
 
 ## Citation
-If you find this work helpful, please cite our work:
+If you find this work helpful, please cite our work as:
+
+Gómez-Zaragozá, L., Wills, S., Tejedor-Garcia, C., Marín-Morales, J., Alcañiz, M., Strik, H. (2023) Alzheimer Disease Classification through ASR-based Transcriptions: Exploring the Impact of Punctuation and Pauses. Proc. INTERSPEECH 2023, 2403-2407, doi: 10.21437/Interspeech.2023-1734
 
 ```
  @inproceedings{gomezzaragoza23_interspeech,
